@@ -8,8 +8,11 @@ Hello everybody! 👋 </br>
 
 ### 📷 Screenshot
 
-![screencapture-tucecifci-github-io-Modal-Window-2024-06-11-15_40_09](https://github.com/tucecifci/Modal-Window/assets/151346784/296c042f-ed45-4afb-9d8a-6b4758925230)
 
+![screencapture-tucecifci-github-io-Modal-Window-2024-06-11-15_39_54](https://github.com/tucecifci/Modal-Window/assets/151346784/61c35859-8cb4-4222-acca-e188287fe48b)
+
+
+![screencapture-tucecifci-github-io-Modal-Window-2024-06-11-15_40_09](https://github.com/tucecifci/Modal-Window/assets/151346784/296c042f-ed45-4afb-9d8a-6b4758925230)
 
 
 ### 🔗 Links
@@ -34,7 +37,7 @@ Hello everybody! 👋 </br>
 
 
 ```javascript
-  unction openModal() {
+  function openModal() {
   modalContainer.style.display = "block";
 }
 function closeModal() {
