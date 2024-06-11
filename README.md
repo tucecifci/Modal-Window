@@ -1,4 +1,4 @@
-![screencapture-tucecifci-github-io-Modal-Window-2024-06-11-15_40_09](https://github.com/tucecifci/Modal-Window/assets/151346784/296c042f-ed45-4afb-9d8a-6b4758925230)# Modal-Window
+# Modal-Window
 
 Hello everybody! 👋 </br>
 ✨ Welcome to the Modal Window project! This project is a simple modal window implementation using HTML, CSS, and JavaScript. It demonstrates how to create a modal window that can be opened and closed by clicking specific buttons. The project covers basic concepts such as event handling, DOM manipulation, and styling for a responsive and user-friendly interface.
@@ -8,7 +8,7 @@ Hello everybody! 👋 </br>
 
 ### 📷 Screenshot
 
-
+![screencapture-tucecifci-github-io-Modal-Window-2024-06-11-15_40_09](https://github.com/tucecifci/Modal-Window/assets/151346784/296c042f-ed45-4afb-9d8a-6b4758925230)
 
 
 
